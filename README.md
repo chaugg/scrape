@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Reddit scrape link simple project buit with Rails
 
-Things you may want to cover:
+* Clone this project ...
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 1. `cd scraper`
+* 2. `rails s`
+* 3. Open your browser to see it live.
+* 4. Make pull request if you need
